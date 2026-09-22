@@ -442,8 +442,8 @@ This structure is planned rather than required. The project will only be split i
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/atlas.git
-cd atlas
+git clone https://github.com/code-devkmd/Atlas.git
+cd Atlas
 ```
 
 Install dependencies:
